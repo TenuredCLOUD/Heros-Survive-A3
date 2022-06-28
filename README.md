@@ -3,3 +3,7 @@ This is a reupload of Heros Survive mod from BI forums, since all the links have
 These files are from the official source, no edits, or any changes have been made.
 
 All Mod credits and code was written by Heros
+
+Official Mod Source (BI Forums):
+
+https://forums.bohemia.net/forums/topic/191553-heros-survive/
